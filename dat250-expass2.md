@@ -12,7 +12,7 @@ Used ```show tables;``` and ```describe test.table_name;``` for each table name.
 
 ## Experiment 1
 
-[Link to code](FILLME)
+[Link to code](https://github.com/tbordvik/dat250/tree/master/software-experiment-2/exp1)
 
     Family
     COLUMN_NAME         |TYPE_NAME|DEC&|NUM&|COLUM&|COLUMN_DEF|CHAR_OCTE&|IS_NULL&
@@ -62,7 +62,7 @@ the GenerationType.TABLE on the ID's. Everything else looks OK to me.
 
 ## Experiment 2
 
-[Link to Code](FILLME)
+[Link to Code](https://github.com/tbordvik/dat250/tree/master/software-experiment-2/exp2)
     Address
 
     COLUMN_NAME         |TYPE_NAME|DEC&|NUM&|COLUM&|COLUMN_DEF|CHAR_OCTE&|IS_NULL&
