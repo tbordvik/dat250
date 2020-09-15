@@ -11,22 +11,23 @@ This will verify that the download is correct for us.
 ## Experiment 1 - MongoDB CRUD operations
 
 ### Insert operations:
-![Image of insert](https://github.com/tbordvik/dat250/tree/master/expass3/insert.png)<br/>
+![Image of insert](https://github.com/tbordvik/dat250/raw/master/expass3/insert.png)
+
 ### Query operations:
-![Image of query](https://github.com/tbordvik/dat250/tree/master/expass3/query.png)<br/>
+![Image of query](https://github.com/tbordvik/dat250/raw/master/expass3/query.png)<br/>
 ### Update operations:
-![Image of update](https://github.com/tbordvik/dat250/tree/master/expass3/update.png)<br/>
+![Image of update](https://github.com/tbordvik/dat250/raw/master/expass3/update.png)<br/>
 ### Remove operations:
-![Image of remove](https://github.com/tbordvik/dat250/tree/master/expass3/remove.png)<br/>
+![Image of remove](https://github.com/tbordvik/dat250/raw/master/expass3/remove.png)<br/>
 ### Bulk-write operations:
-![Image of bulk-write](https://github.com/tbordvik/dat250/tree/master/expass3/bulk-write.png)<br/>
+![Image of bulk-write](https://github.com/tbordvik/dat250/raw/master/expass3/bulk-write.png)<br/>
 
 ## Experiment 2 - Aggregation
 
 ### Working example:
-![Image of example-working](https://github.com/tbordvik/dat250/tree/master/expass3/example-working.png)<br/>
+![Image of example-working](https://github.com/tbordvik/dat250/raw/master/expass3/example-working.png)<br/>
 ### Map-Reduce operation and results:
-![Image of Map-Reduce operation and results](https://github.com/tbordvik/dat250/tree/master/expass3/map-reduce.png)<br/>
+![Image of Map-Reduce operation and results](https://github.com/tbordvik/dat250/raw/master/expass3/map-reduce.png)<br/>
 
 
 Just made an easy example where all the order items gets concatenated for each person, so a list of all orders per person is the output.
